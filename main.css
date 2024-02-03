@@ -1,0 +1,323 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container .banner {
+  width: 1440px;
+  height: 812.53px;
+  position: relative;
+}
+.container .banner__header {
+  width: 1440px;
+  height: 100px;
+}
+.container .banner .banner__nav {
+  width: 1286px;
+  height: 41px;
+  margin: 0px auto;
+  position: absolute;
+  top: 29px;
+  left: 54px;
+}
+.container .banner .banner__nav .banner__img {
+  width: Hug 185px;
+  height: Hug 41px;
+  top: 29px;
+  left: 54px;
+  display: flex;
+  gap: 5px;
+}
+.container .banner .banner__ul {
+  width: 430px;
+  height: 24px;
+  position: absolute;
+  top: 10px;
+  left: 505px;
+  display: flex;
+  gap: 50px;
+}
+.container .banner .banner__ul a {
+  text-decoration: none;
+  list-style: none;
+  color: #000000;
+}
+.container .banner .banner__ul li {
+  list-style: none;
+  display: inline-block;
+  font-weight: 800;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+.container .banner .banner__icons {
+  position: absolute;
+  top: 5px;
+  left: 1093px;
+  display: flex;
+  gap: 24px;
+}
+.container .banner .banner {
+  background: url(./images/scandinavian-interior-mockup-wall-decal-background\ 1.jpg);
+  width: 1440px;
+  height: 716.83px;
+}
+.container .banner .banner__MarkGroup {
+  background-color: #faf4e5;
+  width: 643px;
+  height: 443px;
+  position: absolute;
+  top: 223px;
+  left: 733px;
+  border-radius: 10px;
+}
+.container .banner .MarkGroup__box {
+  width: 561px;
+  height: 344px;
+  position: absolute;
+  top: 60px;
+  left: 45px;
+}
+.container .banner .MarkGroup__box h1 {
+  color: #B88E2F;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 65px;
+}
+.container .banner .MarkGroup__box .MarkGroup__button {
+  width: Hug 222px;
+  height: Hug 74px;
+  position: absolute;
+  top: 280px;
+  background-color: #B88E2F;
+  color: white;
+  padding: 25px 72px 25px 72px;
+  border: none;
+  font-size: 13px;
+  font-weight: 500;
+}
+.container .banner .MarkGroup__box p {
+  margin: 20px 0px;
+  font-family: sans-serif;
+}
+.container .subcontainer {
+  width: 1183px;
+  height: 685px;
+  position: absolute;
+  top: 869px;
+  left: 131px;
+}
+.container .subcontainer .subcontainer__text {
+  text-align: center;
+  padding: 20px 0px;
+}
+.container .subcontainer .subcontainer__text h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+}
+.container .subcontainer .subcontainer__text p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+.container .subcontainer .subcontainer__text span {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+.container .subcontainer .subcontainer__imgs {
+  width: 381px;
+  height: 480px;
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  top: 130px;
+}
+.products{
+  width: 1236px;
+  height: 1084px;
+  position: absolute;
+  top:1600px;
+  left:102px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+  .products__img {
+    height:30px;
+     position: relative;
+    position: absolute; 
+      bottom:1030px; 
+     left:500px; 
+    text-align: center;
+    
+  }
+  .products__frame-7 {
+    width: Hug(1,236px);
+    height:Hug(446px);
+    position: absolute;
+    top:102px;
+    left:0px; 
+    display: flex;
+    gap:32px;
+  }
+  .products__frame-8 {
+    width: Hug(1,236px);
+    height:Hug(446px);
+    position: absolute;
+   top:564px;
+    left:0px;
+    display: flex;
+    gap:32px;
+
+  }
+  .products__button {
+   position: absolute;
+   top:1030px;
+   left:500px;
+   border:none;
+  }
+  .beautiful {
+    width: 1440px;
+    height:670px;
+    position: absolute;
+    top:2763px;
+   
+    background-color: #f5ebd4;
+  }
+  .rectangle {
+    width: 372px;
+    height: 486px;
+    position: absolute;
+    bottom:140px;
+    left:1060px; 
+  }
+  .indicator {
+    position: absolute;
+    bottom:90px;
+    left:1060px;
+  }
+  .ellipse {
+    position: absolute;
+    bottom:290px;
+    left:1367px;
+  }
+  .image {
+    width: 404px;
+    height: 582px;
+    position: absolute;
+    bottom:44px;
+    left:600px;
+  }
+  .text {
+    width: 422px;
+    height:151px;
+    position: absolute;
+    left:100px;
+    bottom:250px;
+    font-size: large;
+    font-family: sans-serif; 
+  }
+  .text h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  .text p {
+    font-size: 18px;
+    color:rgb(127, 125, 125);
+    line-height: 6px;
+   
+  }
+  .beautiful__button {
+    width: 176px;
+    height: 48px;
+    position: absolute;
+    bottom:170px;
+    left:100px;
+    border: none;
+  }
+  .furniture {
+    height: 780px;
+    width: 1440px;
+    top:3500px;
+    left:-196px;
+  }
+  .furniture__share {
+    position: absolute;
+   top:3500px;
+  }
+  .footer {
+    
+    width: 1440px;
+    height: 505px;
+    position: absolute;
+    top:4330px;
+    padding:60px;
+    font-family: sans-serif;
+  }
+.subfooter {
+  position: absolute;
+ top:430px;
+ left:100px;
+}.newsletter {
+  position: absolute;
+  left:970px;
+  font-family: sans-serif;
+}
+ .newsletter p {
+  font-family: sans-serif;
+ }
+
+li {
+list-style: none;
+
+}
+.help {
+  position: absolute;
+  left: 700px;
+ 
+}
+ p {
+  margin-bottom: 20px;
+  color:rgb(153, 152, 152);
+}
+.help a {
+  text-decoration: none;
+  color:black;
+  
+}
+.help li {
+  margin-bottom: 60px;
+
+}
+.links {
+  position: absolute;
+  left:500px;
+}
+.links a {
+  text-decoration: none;
+  color:black;
+}
+.links li {
+  margin-bottom:60px ;
+}
+a:hover{
+  color:blue;
+}
+.funiro {
+  position: absolute;
+  left: 100px;
+  
+}
+.funiro-text {
+ 
+ padding:40px;
+ color:#9F9F9F
+}
+/* # sourceMappingURL=main.css.map */ 
